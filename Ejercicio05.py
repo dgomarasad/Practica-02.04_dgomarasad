@@ -5,3 +5,4 @@ lista.reverse()
 print(lista)
 
 
+
