@@ -9,6 +9,6 @@ numeros_ganador_5 = int(input('Cual es el quinto numero ganador:'))
 lista = [numeros_ganador_1,numeros_ganador_2,numeros_ganador_3,
          numeros_ganador_4,numeros_ganador_5]
 lista.sort()
-print(lista)
+print('Los numeros ganadores son',lista)
 
 
